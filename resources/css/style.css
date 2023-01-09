@@ -27,3 +27,7 @@ p {
 footer {
     text-align: right;
 }
+
+img {
+    margin: 10px;
+}
